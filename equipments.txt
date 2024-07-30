@@ -1,0 +1,5 @@
+TableCloth, Saathi , 20     , 28
+Microphone, Audio , 150     , 27
+Light Set , Sonoff , 50      , 22
+Speaker   , Dolby , 300     , 25
+Computer  , Asus   , 999   , 19
